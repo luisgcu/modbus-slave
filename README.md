@@ -24,7 +24,7 @@ I also thought it would be cool have a base library for Modbus and derive it for
 I appreciate the work of all the authors of the other libraries, of which I used several ideas to compose the modbus-arduino.
 At the end of this document is a list of libraries and their authors.
 
-### Some parts of the library removed for clarity of test with Modbus Box as Modbus SLAVE -->  Modbus_slave_esp32 Example added.
+### Some parts of the library removed for clarity of test with Modbus Box as Modbus SLAVE -->  [Modbus_slave_esp32 Example added](https://github.com/luisgcu/modbus-slave/tree/master/examples/Modbus_slave_esp32).
 
 Features
 ========
@@ -220,7 +220,7 @@ Hreg word (word offset)
 bool Ists (offset word)
 IREG word (word offset)
 ```
-## Some parts of the library removed for clarity of test with Modbus Box as Modbus SLAVE
+## Some parts of the library removed for clarity of tests with [Modbus Box as Modbus SLAVE](https://github.com/luisgcu/modbus-slave/tree/master/examples/Modbus_slave_esp32)
 
 Other Modbus libraries
 ======================
